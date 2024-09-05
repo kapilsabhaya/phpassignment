@@ -16,7 +16,7 @@ Follow the steps below to set up the project on your local machine.
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone git@github.com:kapilsabhaya/phpassignment.git
 cd your-repo-name
 
 ### 2. Build the Docker containers
