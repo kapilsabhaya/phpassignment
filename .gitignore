@@ -1,0 +1,49 @@
+# Ignore Composer vendor directory
+/vendor/
+
+# Ignore PHPUnit and PHPStan results
+/phpunit.xml
+/phpunit.xml.dist
+/phpstan.neon
+/phpstan.neon.dist
+
+# Ignore Composer lock file
+/composer.lock
+
+# Ignore IDE and editor-specific files
+/.idea/
+/*.sublime-project
+/*.sublime-workspace
+/.vscode/
+/*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore environment configuration files
+.env
+
+# Ignore build and cache directories
+/build/
+/cache/
+/logs/
+
+# Ignore database files
+*.sql
+*.sqlite
+
+# Ignore PHPStorm or other IDE's project files
+/.idea/
+
+# Ignore other unnecessary files
+*.pid
+*.seed
+*.dump
